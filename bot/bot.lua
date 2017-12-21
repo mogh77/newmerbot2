@@ -336,6 +336,7 @@ function create_config()
       'webshot',
       'whois',
       'xkcd',
+      'inrealm',
     },
     globally_banned = {},
     mkgroup = {founded = '', founder = '', title = '', gtype = '', uid = ''},
